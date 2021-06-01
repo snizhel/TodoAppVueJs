@@ -1,5 +1,9 @@
 <template>
-  <todo-list list-name="My to-dos" />
+<div>
+  <img style="margin-left:25%" alt="Vue logo" src="./assets/logo.png">
+  <todo-list list-name="Todo list thử nghiệm" />
+</div>
+  
 </template>
 
 <script>

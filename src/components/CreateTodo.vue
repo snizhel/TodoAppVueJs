@@ -4,7 +4,7 @@
       v-model="newTodo"
       type="text"
       class="form-control"
-      placeholder="Create a new to-do..."
+      placeholder="Tạo công việc"
     />
   </form>
 </template>

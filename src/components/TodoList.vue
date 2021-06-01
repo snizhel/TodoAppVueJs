@@ -37,9 +37,9 @@ export default {
   data() {
     return {
       todos: [
-        { description: "Do the dishes", completed: false },
-        { description: "Take out the trash", completed: false },
-        { description: "Finish doing laundry", completed: false },
+        { description: "Rửa chén", completed: false },
+        { description: "Đổ rác", completed: false },
+        { description: "Dọn nhà", completed: false },
       ],
     };
   },
